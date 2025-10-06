@@ -9,7 +9,7 @@
 ### 🪞 Currently  
 🌿 Growing **Skinsight** — securing funding & building momentum  
 🏋️‍♀️ Focused on strength and muscle building  
-🧠 Learning **Terraform**  
+🧠 Learning **Platform Engineering**  
 ☕ Favorite part of the day: that moment when every unit test passes ✅
 
 
